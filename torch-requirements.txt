@@ -1,0 +1,2 @@
+-f https://download.pytorch.org/whl/cpu/torch/
+torch==2.15.0
